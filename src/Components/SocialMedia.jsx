@@ -12,7 +12,7 @@ const SocialMedia = () => (
       <a href='https://github.com/MadickAngeCesar' target='_blanc'><BsGithub /></a>
     </div>
     <div>
-    <a href='https://web.facebook.com/?_rdc=1&_rdrr' target='_blanc'><FaFacebookF /></a>
+    <a href='https://www.facebook.com/madick.angecesar' target='_blanc'><FaFacebookF /></a>
     </div>
   </div>
 );
