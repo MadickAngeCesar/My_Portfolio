@@ -27,8 +27,8 @@ export const works = [
       title: "First Portfolio",
       description:
         "This was my first sample portfolio, developed with HTML and CSS only",
-      codeLink: "www.lol.com",
-      projectLink: images.web1,
+      codeLink: "https://github.com/MadickAngeCesar/Portfolio",
+      projectLink: "https://madickangecesar-portfolio.netlify.app/",
       imgUrl: images.web1,
     },
   ];
